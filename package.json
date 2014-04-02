@@ -1,0 +1,24 @@
+{
+    "name": "gulp-html2jsobject",
+    "version": "0.0.1",
+    "description": "Convert HTML files to a single javascript object",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/zverev/gulp-html2jsobject.git"
+    },
+    "keywords": [
+        "gulp",
+        "html"
+    ],
+    "author": "Alexander Zverev",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/zverev/gulp-html2jsobject/issues"
+    },
+    "homepage": "https://github.com/zverev/gulp-html2jsobject",
+    "dependencies": {
+        "through": "^2.3.4",
+        "gulp-util": "^2.2.5"
+    }
+}
